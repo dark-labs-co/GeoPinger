@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+      "target": "es2020",
+      "module": "ESNext",
+      "strict": true,
+      "esModuleInterop": true,
+      "skipLibCheck": true,
+      "forceConsistentCasingInFileNames": true,
+      "resolveJsonModule": true,
+      "outDir": "dist",
+      "moduleResolution": "node",
+    },
+    "include": ["src/**/*.ts"],
+    "exclude": ["node_modules"]
+  }
